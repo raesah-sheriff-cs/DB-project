@@ -1,0 +1,16 @@
+INSERT INTO Event_Registration (user_id, event_id, registration_date) VALUES
+('ceacle0@unesco.org', 1, '2024-03-01'),
+('ecornthwaite1@pinterest.com', 2, '2024-03-02'),
+('raves2@tumblr.com', 3, '2024-03-03'),
+('emanlow3@merriam-webster.com', 4, '2024-03-04'),
+('dgeare4@blog.com', 5, '2024-03-05'),
+('sdaintrey5@facebook.com', 6, '2024-03-06'),
+('rlease6@ask.com', 7, '2024-03-07'),
+('cdartnell7@bing.com', 8, '2024-03-08'),
+('ckingaby8@google.com', 9, '2024-03-09'),
+('schallicum9@forbes.com', 10, '2024-03-10'),
+('bdwelleya@tripadvisor.com', 11, '2024-03-11'),
+('ngowansonb@sina.com.cn', 12, '2024-03-12'),
+('edanielec@amazon.com', 13, '2024-03-13'),
+('poswickd@reverbnation.com', 14, '2024-03-14'),
+('ckindreade@goo.gl', 15, '2024-03-15');

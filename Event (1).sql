@@ -1,0 +1,16 @@
+INSERT INTO Event (event_id, event_name, event_date, event_info) VALUES
+(1, 'Conference on Healthcare Innovations', '2024-04-15', 'A conference focused on the latest innovations and advancements in the healthcare industry.'),
+(2, 'Tech Expo 2024', '2024-06-28', 'An exhibition showcasing cutting-edge technology solutions and products from various industries.'),
+(3, 'Education Summit', '2024-08-10', 'A summit bringing together educators, policymakers, and industry experts to discuss challenges and opportunities in education.'),
+(4, 'Retail Conference', '2024-09-05', 'A conference addressing trends, challenges, and innovations in the retail sector.'),
+(5, 'Energy Symposium', '2024-10-20', 'A symposium exploring the future of energy, featuring discussions on renewable energy sources and sustainable practices.'),
+(6, 'Technology Summit', '2024-11-12', 'A summit focusing on emerging technologies and their impact on business and society.'),
+(7, 'Healthcare Forum', '2024-12-03', 'A forum bringing together healthcare professionals and stakeholders to discuss issues and solutions in the healthcare industry.'),
+(8, 'Education Expo', '2025-01-18', 'An expo showcasing educational resources, tools, and technologies for educators and students.'),
+(9, 'Retail Innovation Conference', '2025-02-22', 'A conference highlighting innovative strategies and technologies driving growth in the retail sector.'),
+(10, 'Energy Conference', '2025-03-15', 'A conference exploring developments and challenges in the energy industry, with a focus on sustainability and efficiency.'),
+(11, 'Technology Expo', '2025-04-30', 'An expo featuring the latest technological innovations and solutions for businesses and consumers.'),
+(12, 'Healthcare Symposium', '2025-05-25', 'A symposium discussing advancements and best practices in healthcare delivery and patient care.'),
+(13, 'Education Conference', '2025-06-18', 'A conference addressing key issues and trends in education, with a focus on innovation and improvement.'),
+(14, 'Retail Summit', '2025-07-12', 'A summit bringing together retail industry leaders to discuss strategies for driving growth and competitiveness.'),
+(15, 'Energy Forum', '2025-08-05', 'A forum for energy professionals and policymakers to discuss policy, technology, and market trends shaping the energy sector.');
